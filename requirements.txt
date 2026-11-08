@@ -1,0 +1,5 @@
+selenium>=4.15,<5
+undetected-chromedriver>=3.5.5
+# undetected-chromedriver imports distutils, which was removed in Python 3.12.
+# setuptools provides a replacement, so keep this line.
+setuptools>=68
