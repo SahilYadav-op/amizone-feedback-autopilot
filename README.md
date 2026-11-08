@@ -1,4 +1,4 @@
-# Amizone Feedback Helper
+# Feedback Autopilot
 
 Fills in the faculty feedback forms on the Amizone student portal so you don't have to click through every radio button yourself.
 
@@ -20,8 +20,8 @@ You need **Google Chrome** and **Python 3.9 or newer** ([python.org/downloads](h
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/SahilYadav-op/amizone-feedback-helper.git
-cd amizone-feedback-helper
+git clone https://github.com/SahilYadav-op/feedback-autopilot.git
+cd feedback-autopilot
 ./run.sh
 ```
 
