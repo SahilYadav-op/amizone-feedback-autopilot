@@ -65,4 +65,4 @@ python main.py
 
 ## License
 
-MIT. See [LICENSE](./LICENSE). Original work © Faizan; changes © Sahil Yadav.
+MIT. See [LICENSE](./LICENSE). © Sahil Yadav.
